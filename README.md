@@ -10,7 +10,7 @@ Gunakan userbot ini dengan bijak.
 Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya.
 ```
 ## 🖇 Deoloy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nmiabdfhmy/Zelda-Pyro-Ubot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nmiabdfhmy/nyenyenye)
 
 ## 🖇 Generating Pyrogram String Session
 > Anda memerlukan APP ID & API HASH Telegram untuk mengambil sesi Pyrogram. ambil APP ID dan API Hash di my.telegram.org
