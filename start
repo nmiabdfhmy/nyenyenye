@@ -1,0 +1,5 @@
+#!/bin/bash
+# Zelda PyUbot
+
+# start
+python3 -m Zelda
